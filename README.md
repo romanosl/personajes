@@ -30,10 +30,17 @@ que se creó para este fin. Esto será tomado en cuenta como participación.
 ## Recomendaciones:
 
 * Dedica un tiempo razonable a conocer cómo funcionan Git y Github, solamente así
-podrás dar cumplimiento a esta tarea. Una vez que lo entiendas, deberás
+podrás dar cumplimiento a esta tarea. Existen muchos recursos en la web para
+aprenderlos.  Una vez que lo entiendas, deberás
 entonces clonar este repositorio para poder agregar tu archivo md.
 * No quiero sonar arrogante pero yo no sé cómo funciona Git para Windows, por
 favor no hagan preguntas (por lo menos a mi) sobre Git para Windows.
+* Todos tus commits deben contener un mensaje breve que indiquen el cambio
+  realizado por pequeño que sea este
+* Aunque el propósito de la actividad es utilizar la herramienta mas
+  ampliamente usada para los proyectos colaborativos en software libre, también
+  es importante la presentación y ortografía. Date un tiempo tambien para
+  conocer la sintáxis de marcación y cuida tu ortografía
 
 
 ## Listado de Personajes
@@ -51,5 +58,15 @@ Ian Murdock  | Disponible
 Rasmus Lerdorf | Disponible
 Marc Erwing | Disponible
 Miguel de Icaza | Disponible
+Andrew Tannenbaum | Disponible
+Lawrence Lessig  | Disponible
+
+
+## Fecha de entrega
+
+Todos los archivos deberán estar en el repositorio a mas tardar el **11 de
+Octubre de 2015**
+
+
 
 
