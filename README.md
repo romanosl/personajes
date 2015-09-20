@@ -39,6 +39,7 @@ favor no hagan preguntas (por lo menos a mi) sobre Git para Windows.
 ## Listado de Personajes
 
 Personaje |  Alumno
+--------- | -------
 Richard Stallman | Disponible 
 Linus Torvalds | Disponible
 Eric Raymond  | Disponible
