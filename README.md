@@ -54,7 +54,7 @@ Guido Van Rossum | Disponible
 Larry Wall   | Disponible
 Dennis Ritchie | Disponible
 Jon "Maddog" Hall | Disponible
-Ian Murdock  | Disponible
+Ian Murdock  | David Orozco
 Rasmus Lerdorf | Disponible
 Marc Erwing | Disponible
 Miguel de Icaza | Armando Glez 
