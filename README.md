@@ -57,7 +57,7 @@ Jon "Maddog" Hall | Disponible
 Ian Murdock  | Disponible
 Rasmus Lerdorf | Disponible
 Marc Erwing | Disponible
-Miguel de Icaza | Disponible
+Miguel de Icaza | Armando Glez
 Andrew Tannenbaum | Disponible
 Lawrence Lessig  | Disponible
 
