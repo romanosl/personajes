@@ -50,7 +50,7 @@ Personaje |  Alumno
 Richard Stallman | Disponible 
 Linus Torvalds | Disponible
 Eric Raymond  | Disponible
-Guido Van Rossum | Disponible
+Guido Van Rossum | Miguel Romano
 Larry Wall   | Disponible
 Dennis Ritchie | Disponible
 Jon "Maddog" Hall | Disponible
