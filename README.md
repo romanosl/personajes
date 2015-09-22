@@ -51,7 +51,7 @@ Richard Stallman | Disponible
 Linus Torvalds | Disponible
 Eric Raymond  | Disponible
 Guido Van Rossum | Disponible
-Larry Wall   | Disponible
+Larry Wall   | Martha Castro
 Dennis Ritchie | Disponible
 Jon "Maddog" Hall | Disponible
 Ian Murdock  | David Orozco
