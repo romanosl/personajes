@@ -50,11 +50,16 @@ Personaje |  Alumno
 Richard Stallman | Disponible 
 Linus Torvalds | Disponible
 Eric Raymond  | Disponible
+<<<<<<< HEAD
 Guido Van Rossum | Miguel Romano
 Larry Wall   | Disponible
+=======
+Guido Van Rossum | Disponible
+Larry Wall   | Martha Castro
+>>>>>>> IntroSL-Sep2015/master
 Dennis Ritchie | Disponible
 Jon "Maddog" Hall | Disponible
-Ian Murdock  | Disponible
+Ian Murdock  | David Orozco
 Rasmus Lerdorf | Disponible
 Marc Erwing | Disponible
 Miguel de Icaza | Armando Glez 
