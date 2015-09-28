@@ -23,6 +23,7 @@ Guido van Rossum ha hecho diferentes publicaciones con los siguientes temas:
 * Guido van Rossum: Python Tutorial. May 1995. CWI Report CS-R9526.
 * Guido van Rossum: Extending and Embedding the Python Interpreter. May 1995. CWI Report CS-R9527.
 * Guido van Rossum, Jelke de Boer: Linking a Stub Generator (AIL) to a Prototyping Language (Python). Spring 1991 EurOpen Conference Proceedings (May 20-24, 1991) Tromso, Norway.
+
 ##### Multimedia
 * An Interactive Multimedia Management Game, by Lynda Hardman, Guido van Rossum and Aart van Bolhuis. (Journal of Intelligent Systems, 5:151-177, 1995)
 * Links in Hypermedia: the Requirement for Context, by Lynda Hardman, Dick C.A. Bulterman and Guido van Rossum (ACM Hypertext '93, Seattle WA, Nov '93, 183-191)
@@ -31,12 +32,15 @@ Guido van Rossum ha hecho diferentes publicaciones con los siguientes temas:
 * The Amsterdam Hypermedia Model: extending hypertext to support real multimedia, by Lynda Hardman, Dick C A Bulterman and Guido van Rossum (Hypermedia Journal 5(1), July 1993, 47 - 69) (revised version of CWI Report CS-R9306)
 * Dick C.A. Bulterman, Guido van Rossum, Robert van Liere: A Structure for Transportable, Dynamic Multimedia Documents. Proceedings of the Summer 1991 USENIX Conference, Nashville, Tennessee, USA (June 10-14, 1991), pp. 137-155.
 * Dick C.A. Bulterman, Guido van Rossum, Dik Winter: Multimedia Synchronization and UNIX -or- If Multimedia Support is the Problem, Is UNIX the Solution? Autumn 1991 EurOpen Conference Proceedings, Budapest, Hungary (September 16-20, 1991), pp. 29-45.
+
 ##### STDWIN
 * G. van Rossum: STDWIN - A Standard Window System Interface. CWI Report CS-R8817 (April 1988).
+
 ##### Amoeba
 * S.J. Mullender, G. van Rossum, R. van Renesse, J.M. van Staveren: Amoeba: A Distributed Operating System for the 1990s. IEEE Computer Magazine vol. 23, no. 5 (May 1990), pp. 44-53.
 * A.S. Tanenbaum, R. van Renesse, J.M. van Staveren, G.J. Sharp, S.J. Mullender, A.J. Jansen, G. van Rossum: Experiences with the Amoeba Distributed Operating System. CACM vol. 33, no. 12 (December 1990), pp 46-63.
 * G. van Rossum: AIL - A Class-Oriented Stub Generator for Amoeba. Workshop on Progress in Distributed Operating Systems and Distributed Systems Management (eds.: W. Schroder-Preikschat and E.W. Zimmer), Lecture Notes in Computer Science, Springer Verlag, vol. 433 (1990), pp 13-21.
+
 ##### ABC
 * L.G.L.T. Meertens, S. Pemberton, and G. van Rossum: The ABC structure editor. Structure-based editing for the ABC programming environment. CWI report no. CS-R9256 (1992).
 
